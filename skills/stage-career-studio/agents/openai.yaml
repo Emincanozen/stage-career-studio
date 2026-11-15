@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stage Career Studio"
+  short_description: "Stages ciblés, CV honnêtes et suivi des candidatures"
+  default_prompt: "Utilise $stage-career-studio pour définir mon profil, chercher des stages ciblés, adapter mes CV et créer mon suivi sans envoyer de candidature."

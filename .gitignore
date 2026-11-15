@@ -1,0 +1,16 @@
+# Ignore user‑specific data
+profile.json
+facts.json
+offers.json
+state.json
+documents/
+*.zip
+*.log
+# IDE / OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+__pycache__/
+*.pyc
+

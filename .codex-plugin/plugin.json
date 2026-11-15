@@ -1,0 +1,6 @@
+{
+  "name": "stage-career-studio",
+  "version": "1.0.0",
+  "description": "Recherche de stages, dossiers ciblés et suivi local privé.",
+  "skills": "./skills/"
+}

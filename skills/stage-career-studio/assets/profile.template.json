@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "workspace_id": "",
+  "candidate": {"name": "", "degree": "", "school": "", "graduation_expected": null},
+  "search": {"contract": "stage", "start": null, "duration_months": null, "locations": [], "role_families": [], "liked_tasks": [], "excluded_tasks": [], "sectors": [], "employer_preferences": [], "constraints": []},
+  "presentation": {"languages": ["fr"], "photo": null, "formats": []},
+  "confirmed_at": null
+}
